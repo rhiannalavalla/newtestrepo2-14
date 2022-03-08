@@ -27,3 +27,5 @@ whitelist 12:46
 unauth 12:53
 
 test 1:06
+
+test auth 10:00
