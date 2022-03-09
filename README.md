@@ -39,3 +39,5 @@ unauth again
 auth
 
 auth 8:03
+
+unauth 8:04
