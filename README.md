@@ -99,3 +99,5 @@ b 12:15
 unauth again
 
 unauth 12:43
+
+AUTH TEST
