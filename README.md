@@ -5,3 +5,5 @@ Test
 Unauth TEST
 
 unauth 2
+
+auth
